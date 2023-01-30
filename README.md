@@ -1,6 +1,14 @@
 # VBA-challenges
 Assignment 2 
 
+Analysis: 
+
+Create a script that loops through all the stocks for one year and outputs the following information:
+* Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+* The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+* The total stock volume of the stock. The result should match the following image:
+* Make the appropriate adjustments to the VBA script to enable it to run on every worksheet (that is, every year) at once.
+
 The below is the script I wrote with VBA.
 
 ------------------------------
